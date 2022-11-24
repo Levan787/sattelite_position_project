@@ -1,0 +1,12 @@
+ISS_URL = "http://api.open-notify.org/iss-now.json"
+CSV_FILE = 'DB.csv'
+ISS_KEY = 'iss_position'
+COUNTRY_URL = 'https://countriesnow.space/api/v0.1/countries/positions'
+SATELLITE_LONGITUDE = 'longitude'
+SATELLITE_LATITUDE = 'latitude'
+COUNTRY_DATA = 'data'
+GET_LONGITUDE = 'long'
+GET_LATITUDE = 'lat'
+TABLE_NAME = 'coordinates'
+COUNTRY_NAME = 'name'
+NEAREST_COUNTRY_NAME = 'country_name'
